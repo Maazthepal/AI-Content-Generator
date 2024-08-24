@@ -59,3 +59,4 @@ const CreateNewContent = (props: PROPS) => {
     </div>
   )
 }
+export default CreateNewContent
